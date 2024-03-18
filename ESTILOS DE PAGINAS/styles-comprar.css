@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    font-family: "Titillium Web", sans-serif;
+}
+
+.Nav1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+}
+
+.Div2{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.B1{
+    border: 0;
+    padding: 10px ;
+    color: black;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: blue 0 0 10px;
+    margin: 0 10px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    transition: all .5s ;
+}
+
+.B1:hover{
+    letter-spacing: 2px;
+    background-color: blue;
+    color: white;
+    box-shadow: blue 0 0 10px ;
+}
+
+section{
+    width: 400px;
+    height: 340px;
+    background-color: white;
+    margin: auto;
+    margin-top: 110px;
+    box-shadow: blue 0 0 10px ;
+    padding: 20px 30px;
+    color: black;
+    border-radius: 5%;
+    font-size: 20px;
+}
+
+h4{
+    margin: 0;
+    text-align: center;
+    margin-bottom: 40px;    
+}
+
+.INP1{
+    width: 93%;
+    border: 3px solid blue;
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    font-size: 15px;
+}
+
+.INP2{
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    color: white;
+    margin-bottom: 16px;
+    background-color: blue;
+}
+
+p{
+    text-align: center;
+}

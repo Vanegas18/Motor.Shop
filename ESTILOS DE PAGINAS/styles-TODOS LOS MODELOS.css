@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    font-family: "Titillium Web", sans-serif;
+}
+
+.Nav1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+}
+
+.Div2{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+button{
+    text-decoration: none; 
+}
+
+.B1{
+    border: 0;
+    padding: 10px ;
+    color: black;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: blue 0 0 10px;
+    margin: 0 10px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    transition: all .5s ease;
+}
+
+.B1:hover{
+    letter-spacing: 2px;
+    background-color: blue;
+    color: white;
+    box-shadow: blue 0 0 10px ;
+}
+
+.h1-1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    box-shadow: blue 0 0 10px;
+}
+
+.Section1{
+    position: sticky;
+    top: 0;
+}
+
+.Section1 nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+.B2{
+    border: 0;
+    padding: 10px ;
+    color: black;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: blue 0 0 10px;
+    margin: 0 10px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    transition: all .5s ease;
+}
+
+.B2:hover{
+    letter-spacing: 2px;
+    background-color: blue;
+    color: white;
+    box-shadow: blue 0 0 10px ;
+}
+
+h3{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    box-shadow: blue 0 0 10px; 
+}
+
+.Sectioon{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+footer{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}

@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    font-family: "Titillium Web", sans-serif;
+}
+
+.Nav1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    
+}
+
+.Div2{
+    display: flex;
+    justify-content: center;
+}
+
+.Div3{
+    display: flex;
+    justify-content: end;
+    
+}
+
+div a{
+    text-decoration: none;
+    padding: 10px 10px;
+    color: black;
+}
+
+.h1-11{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    box-shadow: blue 0 0 10px;
+    letter-spacing: 1.5px;
+}
+
+.sec1{
+    align-items: center;
+}
+
+.p-11{
+    margin-top: 50px;
+    padding-left: 28%;
+    padding-right: 28%;
+    font-size: 20px;
+    letter-spacing: 1px;
+    border: white 2px solid;
+    box-shadow: grey 0 0 10px;
+}
+
+ul{
+    margin-top: 50px;
+    padding-left: 28%;
+    padding-right: 28%;
+    font-size: 20px;
+    letter-spacing: 1px;
+    border: white 2px solid;
+    box-shadow: grey 0 0 10px;
+}
+
+.B1{
+    border: 0;
+    padding: 10px ;
+    color: black;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: blue 0 0 10px;
+    margin: 0 10px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    transition: all .5s ease;
+}
+
+.B1:hover{
+    letter-spacing: 2px;
+    background-color: blue;
+    color: white;
+    box-shadow: blue 0 0 10px ;
+}
+
+footer{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}

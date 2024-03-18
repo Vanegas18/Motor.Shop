@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    font-family: "Titillium Web", sans-serif;
+}
+
+header
+
+.Nav1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    
+}
+
+.Div1
+
+.Div2{
+    display: flex;
+    justify-content: center;
+}
+
+.Div3{
+    display: flex;
+    justify-content: end;
+    
+}
+
+.h1-1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    box-shadow: blue 0 0 10px;
+}
+
+.Section1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.IMG1{
+    margin-top: 15px;
+}
+
+div a{
+    text-decoration: none;
+    padding: 10px 10px;
+    color: black;
+}
+
+
+.Section2{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.PL{
+    text-align: center;
+    height: 30px;
+}
+
+input[type=text]{
+    border: blue 3px solid;
+    box-shadow: blue 0 0 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.Section3{
+    margin-top: 80px;
+}
+
+.Div6{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+
+.Div7{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 30px;
+}
+
+footer{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.B1{
+    border: 0;
+    padding: 10px ;
+    color: black;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: blue 0 0 10px;
+    margin: 0 10px;
+    font-size: 15px;
+    letter-spacing: 2px;
+    transition: all .5s ;
+}
+
+.B1:hover{
+    letter-spacing: 4px;
+    background-color: blue;
+    color: white;
+    box-shadow: blue 0 0 10px ;
+}
+
+
+.B2{
+    border: 0;
+    width: 300px;
+    padding: 30px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: black 0 0 10px;
+    font-size: 15px;
+    letter-spacing: 2px;
+    transition: all .5s ;
+}
+
+.B2:hover{
+    letter-spacing: 2px;
+    background-color: blue;
+    color: white;
+    box-shadow: blue 0 0 10px;
+}
+
+.B3{
+    border: 0;
+    width: 350px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: black 0 0 10px;
+    font-size: 15px;
+    letter-spacing: 2px;
+    transition: all .5s;
+}
+
+.B3:hover{
+    letter-spacing: 2px;
+    background-color: blue;
+    color: white;
+    box-shadow: blue 0 0 10px;
+}
+
+
+
