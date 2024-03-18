@@ -23,6 +23,27 @@ button{
     text-decoration: none; 
 }
 
+.B3{
+    border: 0;
+    padding: 10px ;
+    color: black;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: blue 0 0 10px;
+    margin: 0 10px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    transition: all .5s ease;
+    margin: 30px 600px 0px 600px;
+}
+
+.B3:hover{
+    letter-spacing: 2px;
+    background-color: blue;
+    color: white;
+    box-shadow: blue 0 0 10px ;
+}
+
 .B1{
     border: 0;
     padding: 10px ;
